@@ -1,0 +1,3 @@
+cd : change directory
+rm :remove
+mv :rename file
